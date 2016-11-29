@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<qamaintain>
+    <question type="select">
+        <id>1</id>
+        <content>Which this the biggest?</content>
+        <option num="A">mouse</option>
+        <option num="B">big mouse</option>
+        <option num="C">big big mouse</option>
+        <option num="D">small mouse</option>
+        <answer>C</answer>
+    </question>
+    <question type="fill">
+        <id>2</id>
+        <content> 
+        	Comeputer needs
+        </content>
+        <blank></blank>
+        <content>
+            to operate.
+        </content>
+    </question>
+    <question type="judge">
+    	<id>3</id>
+    	<content>
+    		Water is not important for us.
+    	</content>
+    	<answer>
+    		false
+    	</answer>
+    </question>
+    <question type="discrip">
+    	<id>4</id>
+    	<content>
+    		Share your experiments.
+    	</content>
+    </question>
+</qamaintain>
